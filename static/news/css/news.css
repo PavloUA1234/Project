@@ -1,0 +1,39 @@
+.decor {
+   position: relative;
+   max-width: 460px0px;
+   background: #292626;
+   border-radius: 30px;
+   display: inline-block;
+   text-align: center;
+}
+
+.decor2 {
+   position: relative;
+   max-width: 500px;
+   border-radius: 30px;
+   display: inline-block;
+}
+
+.decor h1{
+   color: #fff;
+}
+
+.form-inner input, .form-inner textarea {
+   display: block;
+   width: 400px;
+   padding: 0 20px;
+   margin-bottom: 10px;
+   background: #E9EFF6;
+   border-width: 0;
+   border-radius: 20px;
+   font-family: 'Roboto', sans-serif;
+   margin-left: 47px
+  }
+
+.form-inner input[type="submit"] {
+   margin-top: 20px;
+   background: #f69a73;
+   border-bottom: 4px solid #d87d56;
+   color: white;
+   font-size: 14px;
+}
